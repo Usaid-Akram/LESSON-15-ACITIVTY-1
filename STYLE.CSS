@@ -1,0 +1,58 @@
+body {
+    background-color: #F8FAFC;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+header p {
+    font-size: 18px;
+}
+
+.hobby-section {
+    border-radius: 10px;
+    min-height: 140px;
+}
+
+.hobby-section h2 {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.hobby-section p {
+    font-size: 17px;
+}
+
+.hobby-section:hover {
+    transform: scale(1.01);
+    transition: 0.2s;
+}
+
+footer {
+    background-color: #212529;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    margin-top: 40px;
+    border-top: 5px solid #0D6EFD;
+}
+
+footer h3 {
+    color: white;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+footer p {
+    color: #D1D5DB;
+    margin: 5px;
+    font-size: 16px;
+}
